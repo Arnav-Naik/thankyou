@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Pacifico&display=swap");
+
+body {
+  font-family: "Bungee Inline", cursive;
+  text-align: center;
+  color: gold;
+  background-color: lightseagreen;
+  font-size: 30px;
+}
